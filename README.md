@@ -2,8 +2,6 @@
 A Scrabble-based Deck-building Roguelike Dungeon Crawler
 
 # Game Design Document
-
-## Title Page
 ### Game Title
 Scrobbletaire - This needs work. It reasonably highlights the scrabble-based nature of the game but could be improved by taking future story or setting elements into consideration.
 

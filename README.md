@@ -19,7 +19,7 @@ Design doc created: May 18, 2024
 Andrew Haddad, with inspiration and QA testing from his loving wife and nerdy brother.
 
 ## Table of Contents
-[Executive Summary](#Executive_Summary)
+[Executive Summary](#Executive-Summary)
 
 ## Executive Summary
 ### Game Overview

@@ -20,6 +20,15 @@ Andrew Haddad, with inspiration and QA testing from his loving wife and nerdy br
 
 ## Table of Contents
 [Executive Summary](#Executive-Summary)
+[Gameplay Mechanics](#Gameplay-Mechanics)
+[Story and Narrative](#Story-and-Narrative)
+[Level Design](#Level-Design)
+[Visual Design](#Visual-Design)
+[Audio Design](#Audio-Design)
+[Technical Requirements](#Technical-Requirements)
+[User Interface](#User-Interface)
+[Multiplayer](#Multiplayer)
+[Appendices](#Appendices)
 
 ## Executive Summary
 ### Game Overview
@@ -79,15 +88,6 @@ Andrew Haddad, with inspiration and QA testing from his loving wife and nerdy br
 ### Pricing Model
 ### In-Game Purchases
 ### Advertising
-
-## Marketing Strategy
-### Target Market
-### Key Marketing Channels
-### Promotional Strategies
-
-## Production Timeline
-### Development Milestones
-### Release Schedule
 
 ## Appendices
 ### Concept Art

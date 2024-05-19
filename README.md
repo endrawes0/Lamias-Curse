@@ -19,16 +19,16 @@ Design doc created: May 18, 2024
 Andrew Haddad, with inspiration and QA testing from his loving wife and nerdy brother.
 
 ## Table of Contents
-[Executive Summary](#Executive-Summary)
-[Gameplay Mechanics](#Gameplay-Mechanics)
-[Story and Narrative](#Story-and-Narrative)
-[Level Design](#Level-Design)
-[Visual Design](#Visual-Design)
-[Audio Design](#Audio-Design)
-[Technical Requirements](#Technical-Requirements)
-[User Interface](#User-Interface)
-[Multiplayer](#Multiplayer)
-[Appendices](#Appendices)
+ - [Executive Summary](#Executive-Summary)
+ - [Gameplay Mechanics](#Gameplay-Mechanics)
+ - [Story and Narrative](#Story-and-Narrative)
+ - [Level Design](#Level-Design)
+ - [Visual Design](#Visual-Design)
+ - [Audio Design](#Audio-Design)
+ - [Technical Requirements](#Technical-Requirements)
+ - [User Interface](#User-Interface)
+ - [Multiplayer](#Multiplayer)
+ - [Appendices](#Appendices)
 
 ## Executive Summary
 ### Game Overview
